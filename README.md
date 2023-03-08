@@ -15,7 +15,7 @@ ______________________
 
 ## Как установить?
 
-Открываем  [Releases](https://github.com/IRecs/Fox-Audio/releases)  выбираем самый новый, и качаем файл [FoxAudioManager.unitypackage](https://github.com/IRecs/Fox-Audio/releases/download/TestReleases/FoxAudioManager.unitypackage). Распаковываем в проекте.
+Открываем  [Releases](https://github.com/IRecsRu/Fox-Audio/releases)  выбираем самый новый, и качаем файл [FoxAudioManager.unitypackage](https://github.com/IRecsRu/Fox-Audio/releases/tag/Main). Распаковываем в проекте.
 
 ## Как пользоваться?
 
